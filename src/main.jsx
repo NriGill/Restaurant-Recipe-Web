@@ -10,8 +10,8 @@ import Gallery from './pages/Gallery';
 import Menu from './pages/Menu';
 import Myaccount from "./pages/Myaccount"
 import Recipes from './pages/Recipes';
-import Recipe from './pages/recipe';
-import Recipeslist from './pages/recipeslist';
+import Recipe from './pages/Recipe';
+import Recipeslist from './pages/Recipeslist';
 import Recipewise from './pages/Recipewise';
 import Login from './pages/Login';
 import Searchrecipe from './pages/Searchrecipe';
