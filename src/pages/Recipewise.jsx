@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom';
-import Recipeslist from './recipeslist';
+import Recipeslist from './Recipeslist';
 
 const Recipewise = () => {
     const [Recipes, setRecipes] = useState([]);
