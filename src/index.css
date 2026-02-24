@@ -1,0 +1,21 @@
+#contact{
+    min-height: 90vh;
+    /* background-image: url(''); */
+          background: linear-gradient(180deg,rgba(0,0,0,0.6),rgba(0,0,0,0.9)), url('images/restro.jpg');
+
+background-position: center;
+
+
+
+}
+
+.myrecipiescard:hover{
+    scale: 0.9;
+    transition: .5s;
+}
+
+
+  .recipelistlink:hover{
+    border-bottom: 2px solid red;
+  }
+  a{text-decoration: none;}
